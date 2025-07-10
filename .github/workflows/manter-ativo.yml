@@ -1,0 +1,21 @@
+name: Manter Ativo - Tarde
+
+on:
+  schedule:
+    - cron: '0 14 15 * *'  # Dia 15 de cada mês, 14:00 UTC (11:00 BRT)
+  workflow_dispatch:
+
+jobs:
+  commit-vazio:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GH_TOKEN }}
+
+      - name: Commit vazio
+        run: |
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git commit --allow-empty -m "Manter repositório ativo [skip ci]"
+          git push
