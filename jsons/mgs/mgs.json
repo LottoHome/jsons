@@ -1,5 +1,18 @@
 [
   {
+    "numero": 2939,
+    "data": "11/11/2025",
+    "dataProximoConcurso": "13/11/2025",
+    "dezenas": [
+      22,
+      31,
+      33,
+      37,
+      42,
+      49
+    ]
+  },
+  {
     "numero": 2938,
     "data": "08/11/2025",
     "dataProximoConcurso": "11/11/2025",
