@@ -1,5 +1,17 @@
 [
   {
+    "binario numero": 6961,
+    "data": "25/02/2026",
+    "dataProximoBinario": "26/02/2026",
+    "binario": [
+      15,
+      45,
+      55,
+      62,
+      65
+    ]
+  },
+  {
     "binario numero": 6960,
     "data": "24/02/2026",
     "dataProximoBinario": "25/02/2026",
