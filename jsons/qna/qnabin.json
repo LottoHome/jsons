@@ -1,5 +1,17 @@
 [
   {
+    "binario numero": 7089,
+    "data": "11/08/2026",
+    "dataProximoBinario": "12/08/2026",
+    "binario": [
+      26,
+      33,
+      40,
+      55,
+      69
+    ]
+  },
+  {
     "binario numero": 7088,
     "data": "10/08/2026",
     "dataProximoBinario": "11/08/2026",
