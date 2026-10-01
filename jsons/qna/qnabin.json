@@ -1,5 +1,53 @@
 [
   {
+    "binario numero": 7131,
+    "data": "30/09/2026",
+    "dataProximoBinario": "01/10/2026",
+    "binario": [
+      34,
+      41,
+      51,
+      70,
+      76
+    ]
+  },
+  {
+    "binario numero": 7130,
+    "data": "29/09/2026",
+    "dataProximoBinario": "30/09/2026",
+    "binario": [
+      4,
+      16,
+      61,
+      69,
+      72
+    ]
+  },
+  {
+    "binario numero": 7129,
+    "data": "28/09/2026",
+    "dataProximoBinario": "29/09/2026",
+    "binario": [
+      14,
+      22,
+      37,
+      42,
+      60
+    ]
+  },
+  {
+    "binario numero": 7128,
+    "data": "27/09/2026",
+    "dataProximoBinario": "28/09/2026",
+    "binario": [
+      10,
+      44,
+      46,
+      70,
+      73
+    ]
+  },
+  {
     "binario numero": 7127,
     "data": "25/09/2026",
     "dataProximoBinario": "27/09/2026",
