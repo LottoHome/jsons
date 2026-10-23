@@ -1,5 +1,53 @@
 [
   {
+    "binario numero": 7148,
+    "data": "21/10/2026",
+    "dataProximoBinario": "22/10/2026",
+    "binario": [
+      13,
+      16,
+      55,
+      72,
+      74
+    ]
+  },
+  {
+    "binario numero": 7147,
+    "data": "20/10/2026",
+    "dataProximoBinario": "21/10/2026",
+    "binario": [
+      5,
+      21,
+      44,
+      50,
+      57
+    ]
+  },
+  {
+    "binario numero": 7146,
+    "data": "19/10/2026",
+    "dataProximoBinario": "20/10/2026",
+    "binario": [
+      2,
+      7,
+      13,
+      55,
+      80
+    ]
+  },
+  {
+    "binario numero": 7145,
+    "data": "18/10/2026",
+    "dataProximoBinario": "19/10/2026",
+    "binario": [
+      1,
+      6,
+      52,
+      62,
+      69
+    ]
+  },
+  {
     "binario numero": 7144,
     "data": "16/10/2026",
     "dataProximoBinario": "18/10/2026",
