@@ -1,5 +1,18 @@
 [
   {
+    "binario numero": 3076,
+    "data": "27/10/2026",
+    "dataProximoBinario": "28/10/2026",
+    "binario": [
+      6,
+      30,
+      32,
+      38,
+      49,
+      57
+    ]
+  },
+  {
     "binario numero": 3075,
     "data": "26/10/2026",
     "dataProximoBinario": "27/10/2026",
