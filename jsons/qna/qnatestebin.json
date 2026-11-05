@@ -1,5 +1,29 @@
 [
   {
+    "binario numero": 7158,
+    "data": "03/11/2026",
+    "dataProximoBinario": "04/11/2026",
+    "binario": [
+      23,
+      25,
+      44,
+      51,
+      68
+    ]
+  },
+  {
+    "binario numero": 7157,
+    "data": "01/11/2026",
+    "dataProximoBinario": "03/11/2026",
+    "binario": [
+      9,
+      27,
+      58,
+      61,
+      78
+    ]
+  },
+  {
     "binario numero": 7156,
     "data": "30/10/2026",
     "dataProximoBinario": "01/11/2026",
