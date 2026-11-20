@@ -1,5 +1,17 @@
 [
   {
+    "binario numero": 7171,
+    "data": "18/11/2026",
+    "dataProximoBinario": "19/11/2026",
+    "binario": [
+      13,
+      16,
+      25,
+      28,
+      57
+    ]
+  },
+  {
     "binario numero": 7170,
     "data": "17/11/2026",
     "dataProximoBinario": "18/11/2026",
